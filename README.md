@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Error Makers
 - 📫 How to reach me is only create error
 - 😄 Pronouns: Эрор
-- ⚡ Fun fact: I'm not codint errors
+- ⚡ Fun fact: I'm not coding errors
 
 <!---
 VovaError/VovaError is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
